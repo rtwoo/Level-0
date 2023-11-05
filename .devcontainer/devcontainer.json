@@ -1,8 +1,5 @@
 {
 	"name": "Learn Git: Level 0",
-	"build": {
-		"dockerfile": "Dockerfile"
-	},
 	"remoteUser": "git-learner",
 	"customizations": {
 		"vscode": {
