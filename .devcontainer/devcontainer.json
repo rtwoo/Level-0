@@ -1,5 +1,6 @@
 {
 	"name": "Learn Git: Level 0",
+    "image": "mcr.microsoft.com/devcontainers/typescript-node",
 	"remoteUser": "git-learner",
 	"customizations": {
 		"vscode": {
